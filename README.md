@@ -58,6 +58,3 @@ The dataset consists of three main files:
 
 ---
 
-## 📜 License
-
-This dataset is from the **[Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)** and is intended for **educational and research purposes**.
